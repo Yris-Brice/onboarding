@@ -210,7 +210,7 @@ Submit the report in a direct message to Milton via slack.
 <!-- This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle. -->
 <!-- Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form. -->
 
-# Source dode, data, and reproducibility
+# Source code, data, and reproducibility
 
 **Pride:** We expect lab members to sign their code, which means that source code contributions are attributable to an individual's account on GitHub.
 To quote from _The Pragmatic Programmer_:
